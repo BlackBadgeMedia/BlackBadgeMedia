@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Black Badge Media
 - 👀 @BlackBadgeMedia on github is the software branch of the company
 - 🌱 We are currently working on a timetabling software
-- 💞️ Our employees are @BlackBadgeMedia, @Rah06 and Sam
+- 💞️ Our employees are Oscar, @Rah06 and Sam
 - 📫 Send us an email at contact@blackbadgemedia.com or visit our website [blackbadgemedia.com](https://blackbadgemedia.com)
 
 <!---
